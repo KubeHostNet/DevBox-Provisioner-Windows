@@ -55,6 +55,9 @@ You can get this working in a few minutes by following these instructions:
 --* https://putty.org/  
 8.  Install PuttyGen  
 --* https://www.puttygen.com/  
+9.  Install a Code Editor  
+--* For simplicity, we will use Notepad++, but you can use another code editor instead.  
+--* https://notepad-plus-plus.org/  
   
 ## Removal Instructions  
   
@@ -68,6 +71,8 @@ You can get this working in a few minutes by following these instructions:
 --* https://putty.org/  
 5.  Remove PuttyGen  
 --* https://www.puttygen.com/  
+6.  Remove Code Editor  
+--* https://notepad-plus-plus.org/  
   
 The primary development of KubeHostNet and all its components was done by [Green River IT, Incorporated](http://greenriverit.com) in California.  It is released under the generous license terms defined in the [LICENSE](LICENSE.txt) file.  
   
