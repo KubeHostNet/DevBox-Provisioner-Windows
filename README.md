@@ -51,6 +51,10 @@ You can get this working in a few minutes by following these instructions:
 --* (Watch as the command line prints out the changes it will make.  It should say that it will destroy one VM.)  
 --* Type `yes` to approve  
 --* (Watch as the command line prints out the results of destroying the VM.)  
+7.  Install Putty  
+--* https://putty.org/  
+8.  Install PuttyGen  
+--* https://www.puttygen.com/  
   
 ## Removal Instructions  
   
@@ -60,6 +64,10 @@ You can get this working in a few minutes by following these instructions:
 2.  Remove Python  
 --* Use the same automated installer that you used to install Python above, but this time choose the “Uninstall” option  
 3.  Delete directory into which you downloaded the repository  
+4.  Remove Putty  
+--* https://putty.org/  
+5.  Remove PuttyGen  
+--* https://www.puttygen.com/  
   
 The primary development of KubeHostNet and all its components was done by [Green River IT, Incorporated](http://greenriverit.com) in California.  It is released under the generous license terms defined in the [LICENSE](LICENSE.txt) file.  
   
